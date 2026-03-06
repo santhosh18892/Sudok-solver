@@ -53,7 +53,7 @@ This application provides a simple and modern Sudoku playing experience with a c
 
 ## 👨‍💻 Author
 
-Developed by **Srikanth**
+Developed by **Santhosh**
 
 ## 📜 License
 
