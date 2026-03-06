@@ -1,0 +1,26 @@
+# Sudoku Web Application
+
+## 📌 Project Overview
+
+This project is a modern **Sudoku Web Application** built using **React, Vite, and TypeScript** with **Tailwind CSS** for a responsive and clean user interface. The application allows users to play Sudoku with an interactive grid, number pad input, and basic validation logic.
+
+## 🚀 Features
+
+* Interactive Sudoku grid
+* Number pad input system
+* Real-time move validation
+* Responsive UI using Tailwind CSS
+* Component-based React architecture
+* Fast development with Vite
+
+## 🛠️ Technologies Used
+
+* React
+* Vite
+* TypeScript
+* Tailwind CSS
+* Supabase (Backend support)
+
+## 📂 Project Setup
+
+1. Clone the repository
